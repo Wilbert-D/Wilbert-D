@@ -20,7 +20,6 @@ I am particularly interested in:
 Developed an automated workflow combining CFD simulations with surrogate modeling, enabling efficient multi-objective optimization of stirred tank performance.  
 *(Manuscript under review)*  
 
-![描述文字](Stirred tank/workflow_pic.png)
 ### 🔹 Gas Leakage Source Tracing
 Constructed a large-scale dataset and designed a hybrid AI framework for reconstructing flow fields and tracing leakage sources under turbulent conditions.  
 *(Towards applications in industrial safety and emergency response)*  
