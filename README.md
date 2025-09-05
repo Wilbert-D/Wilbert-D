@@ -19,6 +19,7 @@ I am particularly interested in:
 ### 🔹 KAN-assisted Stirred Tank Optimization
 Developed an automated workflow combining CFD simulations with surrogate modeling, enabling efficient multi-objective optimization of stirred tank performance.  
 *(Manuscript under review)*  
+![Figure 1](https://github.com/Wilbert-D/Wilbert-D/Stirred tank/workflow_pic.png?raw=true)
 
 ### 🔹 Gas Leakage Source Tracing
 Constructed a large-scale dataset and designed a hybrid AI framework for reconstructing flow fields and tracing leakage sources under turbulent conditions.  
